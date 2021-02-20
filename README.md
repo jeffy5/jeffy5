@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I am just a coder.
 
-- [Jeffrey Wu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xr-hui&show_icons=true&theme=dracula)
+![Jeffrey Wu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xr-hui&show_icons=true&theme=dracula)
