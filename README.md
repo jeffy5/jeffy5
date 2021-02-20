@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am just a coder.
+
+- [Jeffrey Wu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xr-hui&show_icons=true&theme=dracula)
